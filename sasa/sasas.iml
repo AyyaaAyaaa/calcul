@@ -1,0 +1,4 @@
+public class Variables {
+public static void main(Sring[] args) {
+int myInt = 557;
+System.out.println(myInt);
